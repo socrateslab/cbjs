@@ -1,4 +1,4 @@
-# 论文部分中弹性网络数据与代码
+# 弹性网络预测模型的数据与代码
 
 **基于议题类型的临近预测：使用社交媒体预测新冠确诊人数**
 
@@ -13,3 +13,11 @@
 Abstract: In the case of COVID-19, predicting the number of infections is crucial to prevention and control. Different from other traditional media platforms, social media data provides a new Angle for predicting the growth of COVID-19.Traditional methods of keyword prediction have limitations. How to use Chinese social media data to better predict the number of people diagnosed with public health emergencies without the limitation of keywords? Based on the theoretical framework of nowcasting, this paper manually encodes 9000 micro-blog texts, and builds a machine learning model based on which 190 million social media data are automatically divided into nine categories. This study innovatively used issue type to predict the number of diagnosed patients.The study found that among the issue types,Popular Science, Charitable Donations, and Contact Tracing & Seeking Help are Granger reasons for  the number of confirmed cases. In addition, the accuracy of the Elastic-Net algorithm constructed in this article has reached 83%. it is helpful for responding to potential public health emergencies.
 
 Key words: COVID-19; Machine learning; Granger causality; Nowcasting; Elastic-Net
+
+## Python代码
+
+https://nbviewer.jupyter.org/github/socrateslab/cbjs/blob/master/elastic_net.ipynb
+
+## 时间序列数据
+
+https://github.com/socrateslab/cbjs/blob/master/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E6%95%B0%E6%8D%AE.xlsx?raw=true
