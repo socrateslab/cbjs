@@ -16,8 +16,9 @@ Key words: COVID-19; Machine learning; Granger causality; Nowcasting; Elastic-Ne
 
 ## Python代码
 
-https://nbviewer.jupyter.org/github/socrateslab/cbjs/blob/master/elastic_net.ipynb
+https://nbviewer.jupyter.org/github/socrateslab/cbjs/blob/master/final-nowcasting-using-elastic-net.ipynb
+
 
 ## 时间序列数据
 
-https://github.com/socrateslab/cbjs/blob/master/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E6%95%B0%E6%8D%AE.xlsx?raw=true
+https://github.com/socrateslab/cbjs/blob/master/时间序列数据.txt?raw=true
